@@ -30,9 +30,6 @@ This project contains a basic manual vulnerability scan of a Windows 10 system u
 - [CVE-2017-0144 (SMB)](https://nvd.nist.gov/vuln/detail/CVE-2017-0144)
 - [Microsoft SMB Security](https://learn.microsoft.com/en-us/windows/security)
 
-## 📸 Screenshots
-All outputs and evidence are included in the `/screenshots` folder.
-
 ---
 
 📘 *This project demonstrates basic vulnerability scanning and awareness using default system tools.*
